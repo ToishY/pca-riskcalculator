@@ -1,6 +1,6 @@
 # Risk Calculator Type 3/4 TRUS/DRE(/Phi)
 
-Risk calculator Type 3/4 converted from the JavaScript WebGUI to Python 3.7.6
+Risk calculator Type 3/4 from the JavaScript WebGUI rewritten to Python 3.7.6.
 
 ## Description
 
@@ -8,7 +8,8 @@ The original JavaScript code was found on [Prostatecancer-Riskcalculator.com](ht
 )).
 This tool gives an indication for finding (clinical significant) prostate cancer if a biopsy would be performed, based on several features.
 
-By converting the JavaScript to Python, processing of large amounts of sample data is automatised and therefore less time-consuming.
+By rewriting the JavaScript code to Python, processing of large amounts of sample data is 
+automized and therefore less time-consuming.
 
 
 ## Data
