@@ -4,7 +4,7 @@ Risk calculator Type 3/4 from the JavaScript WebGUI rewritten to Python 3.7.6.
 
 ## Description
 
-The original JavaScript code was found on [Prostatecancer-Riskcalculator.com](http://www.prostatecancer-riskcalculator.com/seven-prostate-cancer-risk-calculators) and is based on logistic regression ([more information on testing/validation of the original tool can be found here](http://swopresearch.nl/wp-content/uploads/2018/04/Tekst_proefschrift_dr._Van_Vugt_-_Impact_studie.pdf
+The original JavaScript code was extracted from [Prostatecancer-Riskcalculator.com](http://www.prostatecancer-riskcalculator.com/seven-prostate-cancer-risk-calculators) and is based on logistic regression ([more information on testing/validation of the original tool can be found here](http://swopresearch.nl/wp-content/uploads/2018/04/Tekst_proefschrift_dr._Van_Vugt_-_Impact_studie.pdf
 )).
 This tool gives an indication for finding (clinical significant) prostate cancer if a biopsy would be performed, based on several features.
 
