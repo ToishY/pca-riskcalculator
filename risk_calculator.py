@@ -3,7 +3,7 @@
 Created on Tue Jun 2 20:33:55 2020
 Modified on Wed Jul 22 15:49:28 2020
 
-@author: ToishY
+@author: ToshY
 
 "Risk calculator" / "Prostaatwijzer" Type 3/4 TRUS/DRE(/Phi)
 
